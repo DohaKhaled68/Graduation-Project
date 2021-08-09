@@ -7,5 +7,3 @@ you fill a survey to know your health condition then you will see list of doctor
 we also provide a device to make you can measure your heart rate , SPO2 and tempreture and send the results to the doctor through the website (IOT system).
 3- Timeline:
 if you want to know the trust news about corona viruse you should visit our timeline which have only the sure news.
-
-Demo: 
