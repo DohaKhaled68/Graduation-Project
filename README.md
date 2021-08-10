@@ -1,5 +1,5 @@
 # Graduation-Project
-in our GP we build website have three services 
+in our GP we build website using React js, it have three services 
 1- Blood Bank system: 
 if you want to donate or need blood you register in the blood bank section to see list of people who have the same bllod type and communicate with them
 2- Health care system:
